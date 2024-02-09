@@ -18,11 +18,11 @@ const Integrate = () => {
 
 				<div className="bg-gray-100 h-[400px] rounded-2xl p-8">
 					<p className="text-base opacity-80">
-						Our SDK is designed to seamlessly integrate into your fintech
+						{`	Our SDK is designed to seamlessly integrate into your fintech
 						product and monitor every transaction with precision. From credits
 						to debits, from your platform to third-party partners, Loopholes
 						ensures that every movement of money is accounted for and you don't
-						lose money.
+						lose money.`}
 					</p>
 				</div>
 			</div>
